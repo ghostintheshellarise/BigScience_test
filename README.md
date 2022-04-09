@@ -1,4 +1,4 @@
-This respository presents how I approach the relationship extraction task.
+Task: Interaction Extraction between two biomedical entities
 
 My primary focus is trying to extract a relationship tuple and to present the relation along a structure similar to Predicate logic. 
 
